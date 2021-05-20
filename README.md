@@ -6,7 +6,7 @@ I decided to pursue software developing as soon as I left my service in the Unit
 I learned multiple languages when I attended Digital Crafts, Houston's Best Rated Coding Bootcamp, including Java, React, Redux, HTML, Jquery and many more. 
 My pursuit in coding will never cease to exist, it will only rise to the stars.I'm interested in other areas as well, for example Artificial Intelligence and even Gaming Design.
 
-I'm also a Martial Arts praticioner which fuels me every morning to get to my desks and start creating or learning. :wrestling: :smile:
+I'm also a Martial Arts praticioner which fuels me every morning to get to my desks and start creating and learning. :wrestling: :smile:
 
 ### Find Me Around the Web 🌎:
 - LinkedIn : https://www.linkedin.com/in/jesse-martinez-293075117/
